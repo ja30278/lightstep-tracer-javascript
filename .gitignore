@@ -1,5 +1,4 @@
 node_modules/
-lib/*
 tmp-publish
 npm-debug.log
 npm-debug.log.*
